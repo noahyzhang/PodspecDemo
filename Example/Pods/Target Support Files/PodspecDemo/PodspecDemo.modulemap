@@ -1,0 +1,6 @@
+framework module PodspecDemo {
+  umbrella header "PodspecDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
